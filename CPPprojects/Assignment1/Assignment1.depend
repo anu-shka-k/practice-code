@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1625469148 source:d:\reeya\cppprojects\assignment1\main.cpp
+	<iostream>
+	"test1.h"
+	"operators.h"
+	"Hw1.h"
+	"drivingage.h"
+	"ages.h"
+	"TestGrades.h"
+	"Switch.h"
+	"Loops.h"
+	"objoripro.h"
+	"oopassign.h"
+	"Untitled1.h"
+
+1618315165 d:\reeya\cppprojects\assignment1\test1.h
+
+1618315165 source:d:\reeya\cppprojects\assignment1\test1.cpp
+	<iostream>
+	"test1.h"
+
+1618471737 source:d:\reeya\cppprojects\assignment1\lecture2.cpp
+	<iostream>
+	<conio.h>
+	"lecture2.h"
+
+1618472006 d:\reeya\cppprojects\assignment1\lecture2.h
+	<iostream>
+	<conio.h>
+
+1618473509 d:\reeya\cppprojects\assignment1\operators.h
+
+1618473892 source:d:\reeya\cppprojects\assignment1\operators.cpp
+	<iostream>
+	"operators.h"
+
+1618899375 source:d:\reeya\cppprojects\assignment1\hw1.cpp
+	<iostream>
+	<conio.h>
+	"Hw1.h"
+
+1618917021 source:d:\reeya\cppprojects\assignment1\drivingage.cpp
+	<iostream>
+	<conio.h>
+	"drivingage.h"
+
+1618899375 d:\reeya\cppprojects\assignment1\hw1.h
+
+1618903622 d:\reeya\cppprojects\assignment1\ages.h
+
+1618905252 source:d:\reeya\cppprojects\assignment1\ages.cpp
+	<iostream>
+	<conio.h>
+	"ages.h"
+
+1618916930 d:\reeya\cppprojects\assignment1\drivingage.h
+
+1619279587 d:\reeya\cppprojects\assignment1\testgrades.h
+
+1619279608 source:d:\reeya\cppprojects\assignment1\testgrades.cpp
+	<iostream>
+	<conio.h>
+	"TestGrades.h"
+
+1619421232 d:\reeya\cppprojects\assignment1\switch.h
+
+1619423889 source:d:\reeya\cppprojects\assignment1\loops.cpp
+	<iostream>
+	<conio.h>
+	"Loops.h"
+
+1619422826 d:\reeya\cppprojects\assignment1\loops.h
+
+1619422570 source:d:\reeya\cppprojects\assignment1\switch.cpp
+	<iostream>
+	<conio.h>
+	"Switch.h"
+
+1623500088 d:\reeya\cppprojects\assignment1\objoripro.h
+
+1623855775 source:d:\reeya\cppprojects\assignment1\objoripro.cpp
+	<iostream>
+	"objoripro.h"
+
+1623855768 d:\reeya\cppprojects\assignment1\oopassign.h
+
+1623856727 source:d:\reeya\cppprojects\assignment1\oopassign.cpp
+	<iostream>
+	<conio.h>
+	"oopassign.h"
+
+1623858482 source:d:\reeya\cppprojects\bank.cpp
+	<iostream>
+	<conio.h>
+
+1624432857 source:d:\reeya\cppprojects\assignment1\polymorph.cpp
+	<iostream>
+	<conio.h>
+
+1625469084 d:\reeya\cppprojects\assignment1\untitled1.h
+
+1625471395 source:d:\reeya\cppprojects\assignment1\untitled1.cpp
+	<iostream>
+	<conio.h>
+	"Untitled1.h"
+
